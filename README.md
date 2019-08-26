@@ -31,3 +31,9 @@ implementation 'com.github.android-work:WaveProgressView_Support:v1.0.1'
         设置在背景宽度中显示多少个波浪周期：setWaveCount(int count)默认1个
         设置文字大小：setTextSize(float textSize)
         设置进度条背景：setBG(int background)
+
+
+### 图片描述<br>
+https://github.com/android-work/WaveProgressView_AndroidX/blob/master/IMAGE/Screenshot_2019-08-26-17-55-35.png
+
+![图片描述](https://github.com/android-work/WaveProgressView_AndroidX/blob/master/IMAGE/Screenshot_2019-08-26-17-55-35.png)
