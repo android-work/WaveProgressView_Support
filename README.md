@@ -15,7 +15,6 @@ implementation 'com.github.android-work:WaveProgressView_Support:v1.0.1'
 }
 
 相关的动画调用方法
-#### 抖音进度条拉伸动画
   ##### 1、添加布局
       <com.work.android.waveprogressview.WaveProgress
         android:layout_width="100dp"
