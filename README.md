@@ -11,7 +11,7 @@ maven { url 'https://jitpack.io' }
 
 2、导入依赖
 dependencies {
-implementation 'com.github.android-work:DouyinAnimator_Support:v1.0.1'
+implementation 'com.github.android-work:WaveProgressView_Support:v1.0.1'
 }
 
 相关的动画调用方法
